@@ -25,7 +25,7 @@ This project is a comprehensive **Sales Insights Dashboard** built using **Table
 ## 📁 Files Included
 
 - `sales_insights.twbx` — Tableau Packaged Workbook (includes visuals and data)
-- `Project_Dashboard.ppt` — Preview of the dashboard
+- `Project Dashboard.ppt` — Preview of the dashboard
 - `README.md` — Project documentation
 
 ---
